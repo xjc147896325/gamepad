@@ -1,0 +1,29 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~demo1.PrjPcb|ReportField=ProjectFullPath~D:\X200-竟成\X200-竟成\19-07-26 2.4g手柄仿\demo1.1\demo1.PrjPcb|ReportField=Title~Bill of Materials For Project [demo1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~50|ReportField=ReportTime~11:31:26|ReportField=ReportDate~2019/9/21|ReportField=ReportDateTime~2019/9/21 11:31:26|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/9/21|ReportField=CurrentTime~0:16:49|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\X200-竟成\X200-竟成\19-07-26 2.4g手柄仿\demo1.1\demo1.SchDoc|ReportField=DocumentName~demo1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/9/14|ReportField=Organization~|ReportField=ProjectName~demo1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~demo1.PrjPcb|ReportField=DataSourceFullPath~D:\X200-竟成\X200-竟成\19-07-26 2.4g手柄仿\demo1.1\demo1.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|BAT|Header, 2-Pin|Battery1|BAT|BAT|1
+2|10uF|贴片电容|C1, C2, C3, C4|0603_C|0603 10uF (106) 10% 10V|4
+3|20pF|贴片电容|C5, C6|0603_C|0603 20pF (200) 5% 50V|2
+4|100nF|贴片电容|C7, C8, C10, C11, C12, C13, C14|0603_C|0603 100nF (104) 10% 50V|7
+5|22uF|贴片电容|C9|0603_C|0603 22uF (226) 20% 6.3V|1
+6|1uF|贴片电容|C15|0603_C|0603 1uF (105) 10% 50V|1
+7|P923D||D1|RGB_LED_5050|P923D|1
+8|红灯|发光二极管|D2|0603_LED_S1|0603 红灯|1
+9|蓝灯|发光二极管|D3|0603_LED_S1|0603 蓝灯|1
+10|BUTTON||K1|BTN8.5*8.5|BUTTON|1
+11|摇杆电位计||K2, K4|摇杆电位计|摇杆电位计|2
+12|KEY_M||K3, K5, RESET|KEY_M|KEY_M|3
+13|10uH ±10%|贴片电感|L1|0603_L|0603 10uH 10%|1
+14|SWD|Header, 5-Pin|P1|HDR1X5|Header 5|1
+15|OLED|Header, 4-Pin|P2|HDR1X4|Header 4|1
+16|USART|Header, 4-Pin|P3, P4|HDR1X4|Header 4|2
+17|Header 10|Header, 10-Pin|P5|HDR1X10|Header 10|1
+18|NRF24L01|Header, 4-Pin, Dual row|P6|HDR2X4|Header 4X2|1
+19|Header 3|Header, 3-Pin|P7|HDR1X3|Header 3|1
+20|22Ω|贴片电阻|R1, R4|0603_R|0603 22Ω (22R0) 1%|2
+21|470Ω|贴片电阻|R2, R3|0603_R|0603 470Ω (4700) 1%|2
+22|1.5KΩ|贴片电阻|R5|0603_R|0603 1.5KΩ (1501) 1%|1
+23|10KΩ|贴片电阻|R6, R7, R8, R9, R10, R11, R12|0603_R|0603 10KΩ (1002) 1%|7
+24|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U1|LQFP48_N|STM32F103C8T6|1
+25|USB-B(Mini)||USB_SLAVE?|USB/SM0.8-6H5|USB5|1
+26|HT7533-1|低压差线性稳压(LDO)|VR1|SOT-89(SOT-89-3)|SOT-89 HT7533-1|1
+27|HT7550-1|低压差线性稳压(LDO)|VR2|SOT-89(SOT-89-3)|SOT-89 HT7550-1|1
+28|8MHz ±20ppm 20pF|贴片晶振|Y1|SMD-5032_2P|SMD-5032_2P 8MHz 20ppm 20pF|1
